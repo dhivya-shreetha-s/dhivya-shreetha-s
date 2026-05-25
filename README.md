@@ -24,11 +24,8 @@ I enjoy experimenting with deep learning, NLP, and web technologies, combining c
 
 -React ⚛️ | JavaScript 💫 | HTML5 🌐 | CSS3 🎨
 
--Tailwind CSS & shadcn/ui 🧱
+-MongoDB 🧾 |MySQL 🗄️
 
--Supabase 🗄️ | PostgreSQL 🧾
-
--Vite ⚡ | Netlify ☁️
 ## 🌱 Currently Exploring
 
 -Advanced Deep Learning architectures 🧠
