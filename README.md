@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Dhivya Shreetha S (2)" src="https://github.com/user-attachments/assets/8f978fb1-b081-4c02-988e-4f36cb62dbf3" />
+
+
 # 👋 Hey there, I'm Dhivya Shreetha S
 🎓 B.Tech Artificial Intelligence and Data Science  
 📍 Karpagam Academy of Higher Education
